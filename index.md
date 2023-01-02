@@ -117,6 +117,7 @@ If we're missing a library please let us know (see below)!
 - [JSON8 Patch](https://github.com/JSON8/patch)
 - [mutant-json](https://github.com/rubeniskov/mutant-json)
 - [immutable-json-patch](https://github.com/josdejong/immutable-json-patch)
+- [rfc6902](https://github.com/chbrown/rfc6902)
 
 ## Python
 
